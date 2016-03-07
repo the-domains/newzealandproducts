@@ -1,7 +1,7 @@
 name: NEW ZEALAND PRODUCTS
 favicon: null
-layout_spectrum: 0.44621837232261896
-typography_spectrum: 0.8233389819506556
+layout_spectrum: 0.72994
+typography_spectrum: 0.44319
 title: 'Personal Shopper '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000022'
+    - '#00326e'
+    - '#708dad'
+    - '#c5b7c8'
+    - '#f3f3f2'
   brandStrength: 0.625
   lightness: 0.75
   saturation: 0.7373426435515285
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
