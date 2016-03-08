@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[NEWZEALANDPRODUCTS]]></title>
-        <description><![CDATA[NEWZEALANDPRODUCTS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Personal Shopper ]]></title>
+        <description><![CDATA[Personal Shopper ]]></description>
+        <link>https://thegrid.ai/newzealandproducts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 18:58:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 17:45:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/newzealandproducts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecac00e4-4855-4ce0-97a4-edc2684819dd.jpg">]]></description>
-            <link>undefined91513add-d835-4f0d-9d50-87e614e24b77/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9e6d427-d0fc-4c70-a1db-581e619ac66b.jpg">]]></description>
+            <link>https://thegrid.ai/newzealandproducts/91513add-d835-4f0d-9d50-87e614e24b77/index.html</link>
             <guid isPermaLink="false">91513add-d835-4f0d-9d50-87e614e24b77</guid>
-            <pubDate>Mon, 07 Mar 2016 18:58:43 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 17:44:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
