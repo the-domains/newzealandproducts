@@ -4,7 +4,7 @@
         <description><![CDATA[Personal Shopper ]]></description>
         <link>https://thegrid.ai/newzealandproducts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 06:03:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/newzealandproducts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Zealand Honey]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/newzealandproducts/91513add-d835-4f0d-9d50-87e614e24b77/index.html</link>
             <guid isPermaLink="false">91513add-d835-4f0d-9d50-87e614e24b77</guid>
             <pubDate>Sat, 07 May 2016 05:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef3babc9-00a6-487b-8dfc-04be46ea0f17.jpg">]]></description>
+            <link>https://thegrid.ai/newzealandproducts/coffee/index.html</link>
+            <guid isPermaLink="false">36b7bc16-bb07-4b50-81de-61237d655d7d</guid>
+            <pubDate>Sat, 07 May 2016 06:03:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
